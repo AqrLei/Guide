@@ -43,9 +43,11 @@ ext {
             litecache       : "com.aqrlei.lib:litecache:1.0.0",
             litedraw        : "com.aqrlei.lib:litedraw:1.0.0",
             litenet         : "com.aqrlei.lib:litenet:1.0.0",
+            litepermission  : "com.aqrlei.lib:litepermission:1.0.0",
             bannerview      : "com.aqrlei.lib:bannerview:1.0.0",
             utilcollection  : "com.aqrlei.lib:utilcollection:1.0.0",
             widgetcollection: "com.aqrlei.lib:widgetcollection:1.0.0",
+            guide           : "com.aqrlei.lib:guide:1.0.0",
     ]
 
     bintray = [
